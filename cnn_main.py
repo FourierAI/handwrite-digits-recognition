@@ -53,7 +53,6 @@ if canvas_result.image_data is not None:
     img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     # st.write(img.shape)
     # st.write(img)
-    st.write(img.shape)
     img = ps.centering(img)
     # st.image(img, clamp = True)
     #
