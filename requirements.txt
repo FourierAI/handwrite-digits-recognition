@@ -2,7 +2,7 @@ numpy==1.20.2
 streamlit_drawable_canvas==0.8.0
 opencv-python-headless
 matplotlib==3.0.2
-torchvision==0.4.2
+torchvision==0.8.1
 streamlit==0.80.0
 torch==1.8.1
 scikit_learn==1.0.1
